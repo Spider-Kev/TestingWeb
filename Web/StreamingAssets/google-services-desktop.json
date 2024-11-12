@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "505649420681",
+    "firebase_url": "https://nihss-bb52c.firebaseio.com",
+    "project_id": "nihss-bb52c",
+    "storage_bucket": "nihss-bb52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505649420681:ios:840afe13ea0478953da958",
+        "android_client_info": {
+          "package_name": "com.apexinnovations.nihss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505649420681-ifkpqom2rbr9lfsbict0nvos8an18jg3.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9qpWiHS-M2rsNjt5VHafpHqWopKSoMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

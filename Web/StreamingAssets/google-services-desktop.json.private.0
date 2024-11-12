@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "505649420681",
+    "firebase_url": "https://nihss-bb52c.firebaseio.com",
+    "project_id": "nihss-bb52c",
+    "storage_bucket": "nihss-bb52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505649420681:android:3d117654004ca3d03da958",
+        "android_client_info": {
+          "package_name": "com.apexinnovations.nihss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505649420681-rg3ieeop79c01rnek0b2s4uo7tjigr58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apexinnovations.nihss",
+            "certificate_hash": "843bd200bb894c0deca02812e44976ec90554174"
+          }
+        },
+        {
+          "client_id": "505649420681-slihre3p2h284nchjelolgkatrfv1n2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGlwNmNFLeWHa8UBVRxK7SQ9-TsDOl9CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505649420681-slihre3p2h284nchjelolgkatrfv1n2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505649420681-ifkpqom2rbr9lfsbict0nvos8an18jg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apexinnovations.nihss"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
